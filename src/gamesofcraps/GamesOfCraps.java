@@ -65,7 +65,7 @@ public class GamesOfCraps {
                         jmlLempar[jmlMain]=lempar;
                         menang++;
                     }
-                    else // kondisi kalah
+                    else // kondisi kalah permainan
                     {
                         jmlLempar[jmlMain]=lempar;
                         kalah++;    
